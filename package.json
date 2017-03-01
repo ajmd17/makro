@@ -1,0 +1,11 @@
+{
+  "name": "makro",
+  "version": "1.0.4",
+  "description": "Text and function macros, inspired by the C Preprocessor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew MacDonald",
+  "license": "ISC"
+}
